@@ -1,0 +1,8 @@
+patient_id,physician_id,alert_date,drug1,drug2
+303-13-5928,571-13-9020,5/24/2023,Olanzanafine,Primalovir
+303-13-5928,571-13-9020,5/24/2023,Primalovir,Abnazole Toleluble
+303-13-5928,571-13-9020,6/22/2023,Olanzanafine,Glucozepam Amcipentin
+478-34-0781,614-57-6885,9/17/2023,Avafoxin,Quixiposide
+501-47-2038,156-28-1945,9/22/2023,Cleotrana,Avafoxin
+501-47-2038,156-28-1945,9/22/2023,Cleotrana,Kanulin
+501-47-2038,156-28-1945,9/22/2023,Avafoxin,Kanulin
